@@ -1,0 +1,115 @@
+@media screen and (max-width: 768px) {
+
+	footer p {
+		text-align: center;
+	}
+	footer .logo {
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 20px;
+		max-width: 55px;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	#download {
+		padding: 50px 0;
+	}
+	#download p {
+		max-width: 80%;
+		margin-left: auto;
+		margin-right: auto; 
+		margin-top: 30px;
+	}
+	#download li {
+		margin-bottom: 20px;
+		max-width: 50%;
+	}
+
+	#subscribe {
+		padding: 150px 0;
+	}
+	#subscribe h1 {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	#subscribe .input-group {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	#community {
+		padding-top: 50px;
+	}
+	#community p {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	#community .com1 {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+		margin-bottom: 20px;
+	}
+	#community .com2 {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	#design {
+		padding-top: 100px;
+		padding-bottom: 50px;
+		text-align: center;
+	}
+	#design img {
+		padding-left: 0;
+	}	
+	#design .iphone {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;		
+	}
+	#design h1 {
+		padding-top: 30px;
+		text-align: center;
+	}
+	#design p {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: justify;	
+	}
+
+	#start {
+		text-align: center;
+	}
+	#start p {
+		max-width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	#start .btn {
+		margin-bottom: 40px;
+	}
+
+	#slider .logo {
+		margin-left: 30px;
+		margin-bottom: 0;
+		margin-top: -55px;
+		text-align: left;
+	}
+	#slider .navbar-collapse {
+		margin-top: 20px;
+		margin-left: 0;
+		padding-left: 0;
+	}
+	#slider .navbar-collapse li {
+		padding-top: 15px;
+		padding-left: 0;
+	}
+
+}
